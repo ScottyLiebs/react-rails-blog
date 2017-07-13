@@ -1,5 +1,7 @@
 # React & Rails Blog
 
+[Live Demo](https://react-rails-blog.herokuapp.com/).
+
 This is a simple blog app using React and Node on the front end and a Rails 5 API back end.
 
 * Axios
